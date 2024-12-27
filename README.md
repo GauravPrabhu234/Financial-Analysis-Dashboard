@@ -21,7 +21,8 @@ Built to provide actionable insights and aid decision-making.
 ---
 
 ## 🖼️ Preview
-![Screenshot 2024-12-27 154559](https://github.com/user-attachments/assets/153e34b5-70b8-4047-bd62-baca78bb0d78)
+![Screenshot 2024-12-27 163910](https://github.com/user-attachments/assets/f79f8499-3bab-4522-aafb-9cf315c233ab)
+
 
 ---
 
